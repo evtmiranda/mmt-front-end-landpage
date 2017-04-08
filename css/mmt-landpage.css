@@ -1,0 +1,13 @@
+body{
+	font-family: 'Bangers', cursive;
+	background-color: #bc2026;
+}
+
+h1{
+	color: #fff;
+	letter-spacing: 2px;
+	font-size: 10em;
+	text-align: center;
+	box-sizing: border-box;
+}
+
